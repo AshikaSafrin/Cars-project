@@ -1,0 +1,15 @@
+1.What is the average Mileage of the cars?
+2.What is the Relationship between car price & Mileage using Plot?
+3.Distribution of car price using plot?
+4.What is the car price of using Box plot?
+5.Compare the Engine & Price using Scatter plot
+6.How many of First, Second, Third Owners?
+7.Owner type using Bar plot
+8.Owner Type with another categorical column (Brand) using crosstabulation?
+9.Fuel type with another categorical column (Transmission) using crosstabulation?
+10.Price Distribution by owner type using Box plot
+11.Calculate the average price of cars by Mileage
+12.Find the car with the Highest Power
+13.Plot the Relationship between Engine and price
+14.Find the top 5 most expensive cars
+15.calculate the average car price over the years
